@@ -1,0 +1,51 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+h1 {
+    font-weight: 700;
+    font-size: 3.75em;
+}
+
+h2 {
+    font-weight: 700;
+    font-size:2.5em ;
+}
+
+h5 {
+    font-weight: 700;
+}
+
+p {
+    font-weight: 400;
+}
+
+a {
+    text-decoration: none;
+}
+
+.navbar {
+    background-color: #E83E8C;
+}
+
+.navbar-brand img {
+    width: 8.25em;
+    height: 3.3125em;
+}
+
+.icons-section {
+    background-color: #17A2B8;
+}
+
+.icon {
+    color: #fff;
+}
+
+footer {
+    background-color: #E83E8C;
+}
+
+footer img {
+    width: 3.3325em;
+    height: 6.278125em;
+}
